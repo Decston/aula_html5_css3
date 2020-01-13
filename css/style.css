@@ -1,0 +1,40 @@
+body {
+    background: rgb(255, 255, 255);
+    margin-left: 20px;
+    margin-right: 100px;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+
+header {
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_logo {
+    width: 220px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.nome_site {
+   color: blue;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 100px;
+}
+
